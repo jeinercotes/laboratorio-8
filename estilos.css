@@ -1,19 +1,16 @@
-h1
-  {
+h1{
    color: red;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 25px;
   }
 
-p
-  {
+p{
    color: rgb(0, 255, 34);
    font-family: Georgia, 'Times New Roman', Times, serif;
    font-size: 15px;
   }
 
-img
-  {
+img{
    border: 8px solid blueviolet;
   }
     
